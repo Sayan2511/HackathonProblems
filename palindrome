@@ -2,7 +2,7 @@
 """
 Created on Wed May 12 19:14:18 2021
 checking a string is pallindrome or not
-@author: Saikat Datta
+@author: Sayan Banik
 """
 
 s=input()
