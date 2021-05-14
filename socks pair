@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Apr 14 15:43:59 2021
-@author: Saikat Datta
+@author: Sayan Banik
 """
 
 def find_pairs(arr,v):
